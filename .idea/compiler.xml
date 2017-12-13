@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="call-router-api" />
+        <module name="call-router-base" />
+        <module name="callcenter.api.busi" />
+        <module name="callcenter.axb.busi" />
+        <module name="callcenter.axb.supplier" />
+        <module name="callcenter.bec.busi" />
+        <module name="callcenter.bec.supplier" />
+        <module name="callcenter.common" />
+        <module name="callcenter.dao" />
+        <module name="callcenter.entity" />
+        <module name="callcenter.util" />
+        <module name="callswitch.admin" />
+        <module name="callswitch.api.busi" />
+        <module name="callswitch.api.supplier" />
+        <module name="callswitch.axb.busi" />
+        <module name="callswitch.axb.supplier" />
+        <module name="callswitch.common" />
+        <module name="callswitch.dao" />
+        <module name="callswitch.entity" />
+        <module name="callswitch.job" />
+        <module name="callswitch.util" />
+        <module name="car-api-sdk" />
+        <module name="clue-api" />
+        <module name="cluedispatch" />
+        <module name="cluefactory" />
+        <module name="cluefactory.common" />
+        <module name="cluefactory.dao" />
+        <module name="cluefactory.model" />
+        <module name="cluefactory.service" />
+        <module name="cluefactory.util" />
+        <module name="crm_api" />
+        <module name="data" />
+        <module name="external_api" />
+        <module name="external_base" />
+        <module name="operation_manage_tool" />
+        <module name="raptor-data" />
+        <module name="raptor-domain" />
+        <module name="raptor-rest-api" />
+        <module name="raptor-rpc-api" />
+        <module name="raptor-schedule" />
+        <module name="raptor-service" />
+        <module name="raptor-util" />
+        <module name="repairshop.common" />
+        <module name="repairshop.controller" />
+        <module name="repairshop.dao" />
+        <module name="repairshop.model" />
+        <module name="repairshop.service" />
+        <module name="repairshop.util" />
+        <module name="repairshop.web" />
+        <module name="service" />
+        <module name="util" />
+        <module name="web-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aftersale_api" target="1.6" />
+      <module name="call-router" target="1.8" />
+      <module name="call-router-api" target="1.8" />
+      <module name="call-router-base" target="1.8" />
+      <module name="callcenter" target="1.8" />
+      <module name="callcenter.api.busi" target="1.8" />
+      <module name="callcenter.axb.busi" target="1.8" />
+      <module name="callcenter.axb.supplier" target="1.8" />
+      <module name="callcenter.bec.busi" target="1.8" />
+      <module name="callcenter.bec.supplier" target="1.8" />
+      <module name="callcenter.common" target="1.8" />
+      <module name="callcenter.dao" target="1.8" />
+      <module name="callcenter.entity" target="1.8" />
+      <module name="callcenter.util" target="1.8" />
+      <module name="callswitch" target="1.8" />
+      <module name="callswitch.admin" target="1.8" />
+      <module name="callswitch.api.busi" target="1.8" />
+      <module name="callswitch.api.supplier" target="1.8" />
+      <module name="callswitch.axb.busi" target="1.8" />
+      <module name="callswitch.axb.supplier" target="1.8" />
+      <module name="callswitch.common" target="1.8" />
+      <module name="callswitch.dao" target="1.8" />
+      <module name="callswitch.entity" target="1.8" />
+      <module name="callswitch.job" target="1.8" />
+      <module name="callswitch.util" target="1.8" />
+      <module name="car-api-sdk" target="1.8" />
+      <module name="clue-api" target="1.8" />
+      <module name="cluedispatch" target="1.8" />
+      <module name="cluefactory" target="1.8" />
+      <module name="cluefactory.common" target="1.8" />
+      <module name="cluefactory.dao" target="1.8" />
+      <module name="cluefactory.model" target="1.8" />
+      <module name="cluefactory.service" target="1.8" />
+      <module name="cluefactory.util" target="1.8" />
+      <module name="cluetocc" target="1.8" />
+      <module name="crm_api" target="1.8" />
+      <module name="data" target="1.8" />
+      <module name="external_api" target="1.8" />
+      <module name="external_base" target="1.8" />
+      <module name="operation_manage_tool" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="raptor" target="1.8" />
+      <module name="raptor-data" target="1.8" />
+      <module name="raptor-domain" target="1.8" />
+      <module name="raptor-rest-api" target="1.8" />
+      <module name="raptor-rpc-api" target="1.8" />
+      <module name="raptor-schedule" target="1.8" />
+      <module name="raptor-service" target="1.8" />
+      <module name="raptor-util" target="1.8" />
+      <module name="repairshop" target="1.8" />
+      <module name="repairshop.common" target="1.8" />
+      <module name="repairshop.controller" target="1.8" />
+      <module name="repairshop.dao" target="1.8" />
+      <module name="repairshop.model" target="1.8" />
+      <module name="repairshop.service" target="1.8" />
+      <module name="repairshop.util" target="1.8" />
+      <module name="repairshop.web" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="util" target="1.8" />
+      <module name="web-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

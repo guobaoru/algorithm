@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="callswitch.axb.busi:war">
+    <output-path>D:/git/workspace/cc_call_switch/callswitch.axb.busi/target</output-path>
+    <root id="archive" name="ROOT.war">
+      <element id="artifact" artifact-name="callswitch.axb.busi:war exploded" />
+    </root>
+  </artifact>
+</component>

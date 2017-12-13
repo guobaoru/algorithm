@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.admin" />
+    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.api.busi" />
+    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.api.supplier" />
+    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.axb.busi" />
+    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.axb.supplier" />
+    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.job" />
+    <file type="web" url="file://D:/git/workspace/cc_clue_alloc/cluedispatch" />
+    <file type="web" url="file://D:/git/workspace/cc_clue_alloc/cluefactory" />
+    <file type="web" url="file://D:/git/workspace/RepairShop/repairshop.web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/git/workspace/RepairShop/pom.xml" />
+        <option value="D:/git/workspace/aftersale_api/pom.xml" />
+        <option value="D:/git/workspace/car-service/pom.xml" />
+        <option value="D:/git/workspace/inspector_task/pom.xml" />
+        <option value="D:/git/workspace/callcenter/pom.xml" />
+        <option value="D:/git/workspace/cc_call_switch/pom.xml" />
+        <option value="D:/git/workspace/call-router/pom.xml" />
+        <option value="D:/git/workspace/cc_clue_alloc/pom.xml" />
+        <option value="D:/git/workspace/clue-api/pom.xml" />
+        <option value="D:/git/workspace/crm_api/pom.xml" />
+        <option value="D:/git/workspace/operation_manage_tool/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

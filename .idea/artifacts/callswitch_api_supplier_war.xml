@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="callswitch.api.supplier:war">
+    <output-path>D:/git/workspace/cc_call_switch/callswitch.api.supplier/target</output-path>
+    <root id="archive" name="ROOT.war">
+      <element id="artifact" artifact-name="callswitch.api.supplier:war exploded" />
+    </root>
+  </artifact>
+</component>

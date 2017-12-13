@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cluefactory:war">
+    <output-path>D:/git/workspace/cc_clue_alloc/cluefactory/target</output-path>
+    <root id="archive" name="ROOT.war">
+      <element id="artifact" artifact-name="cluefactory:war exploded" />
+    </root>
+  </artifact>
+</component>

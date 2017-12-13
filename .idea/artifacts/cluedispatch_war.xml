@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cluedispatch:war">
+    <output-path>D:/git/workspace/cc_clue_alloc/cluedispatch/target</output-path>
+    <root id="archive" name="ROOT.war">
+      <element id="artifact" artifact-name="cluedispatch:war exploded" />
+    </root>
+  </artifact>
+</component>
