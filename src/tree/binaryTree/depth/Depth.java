@@ -2,7 +2,7 @@ package tree.binaryTree.depth;
 
 import tree.binaryTree.BinaryTree;
 import tree.binaryTree.TreeFactory;
-
+//求二叉树最大深度
 public class Depth {
     public static int TreeDepth(BinaryTree root) {
         if(root==null)

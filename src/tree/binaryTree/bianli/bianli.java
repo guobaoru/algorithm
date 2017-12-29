@@ -2,7 +2,7 @@ package tree.binaryTree.bianli;
 
 import tree.binaryTree.BinaryTree;
 import tree.binaryTree.TreeFactory;
-
+//二叉树的三种遍历
 public class bianli {
     public static void preorder(BinaryTree tree){
         if(tree == null) return;

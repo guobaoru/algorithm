@@ -1,5 +1,5 @@
 package tree.binaryTree;
-
+//初始化一个二叉树
 public class TreeFactory {
     public static BinaryTree getBinaryTree(){
         BinaryTree treeRoot = new BinaryTree(0);
