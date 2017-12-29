@@ -19,7 +19,7 @@ public class TreeFactory {
         tree2.leftNode = tree5;
         tree2.rightNode = tree6;
         tree3.leftNode = tree7;
-        tree3.leftNode = tree8;
+        tree3.rightNode = tree8;
         tree4.leftNode = tree9;
         return treeRoot;
     }
