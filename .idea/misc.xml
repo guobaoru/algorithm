@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.admin" />
-    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.api.busi" />
-    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.api.supplier" />
-    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.axb.busi" />
-    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.axb.supplier" />
-    <file type="web" url="file://D:/git/workspace/cc_call_switch/callswitch.job" />
-    <file type="web" url="file://D:/git/workspace/cc_clue_alloc/cluedispatch" />
-    <file type="web" url="file://D:/git/workspace/cc_clue_alloc/cluefactory" />
-    <file type="web" url="file://D:/git/workspace/RepairShop/repairshop.web" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_call_switch/callswitch.admin" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_call_switch/callswitch.api.busi" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_call_switch/callswitch.api.supplier" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_call_switch/callswitch.axb.busi" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_call_switch/callswitch.axb.supplier" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_call_switch/callswitch.job" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_clue_alloc/cluedispatch" />
+    <file type="web" url="file://$PROJECT_DIR$/../cc_clue_alloc/cluefactory" />
+    <file type="web" url="file://$PROJECT_DIR$/../RepairShop/repairshop.web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="D:/git/workspace/RepairShop/pom.xml" />
-        <option value="D:/git/workspace/aftersale_api/pom.xml" />
-        <option value="D:/git/workspace/car-service/pom.xml" />
-        <option value="D:/git/workspace/inspector_task/pom.xml" />
-        <option value="D:/git/workspace/callcenter/pom.xml" />
-        <option value="D:/git/workspace/cc_call_switch/pom.xml" />
-        <option value="D:/git/workspace/call-router/pom.xml" />
-        <option value="D:/git/workspace/cc_clue_alloc/pom.xml" />
-        <option value="D:/git/workspace/clue-api/pom.xml" />
-        <option value="D:/git/workspace/crm_api/pom.xml" />
-        <option value="D:/git/workspace/operation_manage_tool/pom.xml" />
+        <option value="$PROJECT_DIR$/../RepairShop/pom.xml" />
+        <option value="$PROJECT_DIR$/../aftersale_api/pom.xml" />
+        <option value="$PROJECT_DIR$/../car-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../inspector_task/pom.xml" />
+        <option value="$PROJECT_DIR$/../callcenter/pom.xml" />
+        <option value="$PROJECT_DIR$/../cc_call_switch/pom.xml" />
+        <option value="$PROJECT_DIR$/../call-router/pom.xml" />
+        <option value="$PROJECT_DIR$/../cc_clue_alloc/pom.xml" />
+        <option value="$PROJECT_DIR$/../clue-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../crm_api/pom.xml" />
+        <option value="$PROJECT_DIR$/../operation_manage_tool/pom.xml" />
+        <option value="$PROJECT_DIR$/../seq/pom.xml" />
       </list>
     </option>
   </component>

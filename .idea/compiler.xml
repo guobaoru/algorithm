@@ -16,6 +16,7 @@
         <module name="callcenter.common" />
         <module name="callcenter.dao" />
         <module name="callcenter.entity" />
+        <module name="callcenter.monitor" />
         <module name="callcenter.util" />
         <module name="callswitch.admin" />
         <module name="callswitch.api.busi" />
@@ -55,6 +56,7 @@
         <module name="repairshop.service" />
         <module name="repairshop.util" />
         <module name="repairshop.web" />
+        <module name="seq" />
         <module name="service" />
         <module name="util" />
         <module name="web-api" />
@@ -74,6 +76,7 @@
       <module name="callcenter.common" target="1.8" />
       <module name="callcenter.dao" target="1.8" />
       <module name="callcenter.entity" target="1.8" />
+      <module name="callcenter.monitor" target="1.8" />
       <module name="callcenter.util" target="1.8" />
       <module name="callswitch" target="1.8" />
       <module name="callswitch.admin" target="1.8" />
@@ -118,6 +121,7 @@
       <module name="repairshop.service" target="1.8" />
       <module name="repairshop.util" target="1.8" />
       <module name="repairshop.web" target="1.8" />
+      <module name="seq" target="1.8" />
       <module name="service" target="1.8" />
       <module name="util" target="1.8" />
       <module name="web-api" target="1.8" />
