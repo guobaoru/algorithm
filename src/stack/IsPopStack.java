@@ -3,7 +3,7 @@ import java.util.Stack;
 
 public class IsPopStack {
     public static boolean IsPopOrder(int [] pushA,int [] popA) {
-        // 栈的长度
+        // 栈的深度
         int size = pushA.length;
         // 空栈
         Stack<Integer> stack = new Stack<>();
