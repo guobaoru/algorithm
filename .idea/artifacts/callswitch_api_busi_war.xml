@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="callswitch.api.busi:war">
-    <output-path>D:/git/workspace/cc_call_switch/callswitch.api.busi/target</output-path>
-    <root id="archive" name="ROOT.war">
-      <element id="artifact" artifact-name="callswitch.api.busi:war exploded" />
-    </root>
-  </artifact>
-</component>

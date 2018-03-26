@@ -6,7 +6,7 @@ public class IsPopStack {
         // 栈的深度
         int size = pushA.length;
         // 空栈
-        Stack<Integer> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<Integer>();
         // index出栈的标记，出几个了
         int index_pop = 0;
         // 外层入栈，内层判断是否出栈

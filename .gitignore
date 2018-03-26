@@ -3,6 +3,7 @@
 .classpath
 .project
 *.iml
+.idea
 .DS_Store
 
 /bin/
