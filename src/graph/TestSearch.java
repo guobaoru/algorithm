@@ -29,9 +29,9 @@ public class TestSearch {
         graph.insertEdge(6, 5, 1);
 
         System.out.println("深度优先搜索序列为：");
-//        graph.depthFirstSearch();
+        graph.depthFirstSearch();
         System.out.println();
         System.out.println("广度优先搜索序列为：");
-//        graph.broadFirstSearch();
+        graph.broadFirstSearch();
     }
 }
