@@ -15,18 +15,26 @@ public class Bfs {
         if (root == null) return res;                                //边界条件
         Queue<BinaryTree> q = new LinkedList();             //创建的队列用来存放结点，泛型注意是TreeNode
         q.add(root);
+        int depth = 0;
         while (!q.isEmpty()) {                        //队列为空说明已经遍历完所有元素，while语句用于循环每一个层次
             int count = q.size();
-            List<Integer> list = new ArrayList();
+            List<Integer> list = new ArrayList<>();
             while (count > 0) {                             //遍历当前层次的每一个结点，每一层次的Count代表了当前层次的结点数目
                 BinaryTree temp = q.peek();
                 q.poll();                                        //遍历的每一个结点都需要将其弹出
-                list.add(temp.value);
+
                 if (temp.leftNode != null) q.add(temp.leftNode);      //迭代操作，向左探索
                 if (temp.rightNode != null) q.add(temp.rightNode);
+
+                // 常规输出
+//                list.add(temp.value);
+                // 龙摆尾输出
+                if (depth % 2 != 0) list.add(0, temp.value);
+                else list.add(temp.value);
                 count--;
             }
             res.add(list);
+            depth++;
         }
         return res;
     }
