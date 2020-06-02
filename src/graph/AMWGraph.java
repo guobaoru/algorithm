@@ -96,6 +96,7 @@ public class AMWGraph {
 
     //对外公开函数，深度优先遍历，与其同名私有函数属于方法重载
     public void depthFirstSearch() {
+        boolean[] isVisited = new boolean[getNumOfVertex()];
         for (int i = 0; i < getNumOfVertex(); i++) {
             //因为对于非连通图来说，并不是通过一个结点就一定可以遍历所有结点的。
             if (!isVisited[i]) {
@@ -134,6 +135,7 @@ public class AMWGraph {
 
     //对外公开函数，广度优先遍历
     public void broadFirstSearch() {
+        boolean[] isVisited = new boolean[getNumOfVertex()];
         for (int i = 0; i < getNumOfVertex(); i++) {
             if (!isVisited[i]) {
                 broadFirstSearch(isVisited, i);

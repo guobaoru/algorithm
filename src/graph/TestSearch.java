@@ -18,6 +18,7 @@ public class TestSearch {
         graph.insertEdge(2, 5, 1);
         graph.insertEdge(2, 6, 1);
         graph.insertEdge(5, 6, 1);
+        //--------------------------------------对称
         graph.insertEdge(1, 0, 1);
         graph.insertEdge(2, 0, 1);
         graph.insertEdge(3, 1, 1);
